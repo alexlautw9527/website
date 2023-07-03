@@ -1,6 +1,6 @@
 <template>
   <div
-    class="flex py-1 border bg-custom-gray-800 justify-center w-full"
+    class="flex py-1 border border-b-0 bg-custom-gray-800 justify-center w-full"
     :class="dateHeadingBorderClass"
   >
     <div class="flex-grow py-1 my-1 border-t border-b border-r" :class="dateHeadingDecorateClass">
